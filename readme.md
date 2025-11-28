@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm ADHWAITH! 👋</h1><h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Engineer+And;+n+AI+Analyst;I+Build+Smart+Systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Engineer;+AI+Analyst;I+Build+Smart+Systems." alt="Typing SVG" />
 </h1>
 
 <p align="center">
