@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]">
+  <a href="https://linkedin.com/in/adhu1010">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:[YOUR-EMAIL-ADDRESS]">
+  <a href="mailto:adhwaithkp8@gmail.com>
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -15,12 +15,12 @@
 
 ### 👨‍💻 About Me
 
-I am a fresher and incoming **AI Analyst at Cognizant**, bridging the gap between robust software engineering and intelligent systems. I specialize in building end-to-end applications and infusing them with Deep Learning capabilities.
+I am a fresher and incoming **AI Analyst and Full-Stack Devloper**, bridging the gap between robust software engineering and intelligent systems. I specialize in building end-to-end applications and infusing them with Deep Learning capabilities.
 
 * 🔭 **I’m currently working on:** Optimizing Agentic RAG systems for medical queries.
-* 🎓 **Education:** B.Tech from **KTU** (2019 Scheme) with a focus on Computer Science.
-* 💻 **My Daily Drivers:** **Python**, **React**, and **Pop!_OS / Zorin OS** (Linux enthusiast).
-* 🏋️ **Offline:** When I'm not coding, I'm calculating macros for a high-protein diet or hitting the gym.
+* 🎓 **Education:** B.Tech from **KTU** (2019 Scheme) with a focus on Artificial Intelligence and Machine Learning.
+* 💻 **My Daily Drivers:** **Python**, **React**, and **Pop!_OS** (Linux enthusiast).
+* ⚽ **Offline:** When I'm not coding, you'll find me watching movies or playing football.
 
 ---
 
@@ -74,12 +74,12 @@ I am a fresher and incoming **AI Analyst at Cognizant**, bridging the gap betwee
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhu1010&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhu1010&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhu1010&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
