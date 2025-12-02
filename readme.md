@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/adhu1010](https://www.linkedin.com/in/adhwaithprasannan/">
+  <a href="https://www.linkedin.com/in/adhwaithprasannan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:adhwaithkp8@gmail.com>
