@@ -80,8 +80,7 @@ I am a fresher and incoming **AI Analyst and Full-Stack Devloper**, bridging the
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=adhu1010&theme=tokyonight&hide_border=true" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-m6jh3tmhg-adhwaith-k-ps-projects.vercel.app?user=adhu1010" alt="GitHub Streak" /></a></div>
 
 
 ---
