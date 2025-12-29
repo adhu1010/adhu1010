@@ -74,8 +74,9 @@ I am a fresher and incoming **AI Analyst and Full-Stack Devloper**, bridging the
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhu1010&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhu1010&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  
+  <img src="https://github-readme-stats-theta-sage.vercel.app/api?username=adhu1010&show_icons=true&theme=tokyonight&hide_border=true" alt="stats graph" />
+  <img src="https://github-readme-stats-theta-sage.vercel.app/api/top-langs/?username=adhu1010&layout=compact&theme=tokyonight&hide_border=true" alt="languages graph" />
 </div>
 
 <div align="center">
